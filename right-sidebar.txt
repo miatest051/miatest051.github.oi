@@ -1,0 +1,123 @@
+
+<html>
+	<head>
+		<title>Right Sidebar - Landed by HTML5 UP</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+		<div id="page-wrapper">
+
+			<!-- Header -->
+				<header id="header">
+					<h1 id="logo"><a href="index.html">Landed</a></h1>
+					<nav id="nav">
+						<ul>
+							<li><a href="index.html">Home</a></li>
+							<li>
+								<a href="#">Recipes</a>
+								<ul>
+									<li><a href="left-sidebar.html">Fruit Salad</a></li>
+									<li><a href="right-sidebar.html">Vegetable Salad</a></li>
+									</li>
+								</ul>
+							</li>
+							<li><a href="elements.html">Price</a></li>
+						</ul>
+					</nav>
+				</header>
+
+			<!-- Main -->
+				<div id="main" class="wrapper style1">
+					<div class="container">
+						<header class="major">
+							<h2>Chipotle Roasted Vegetable Salad</h2>
+							<p>with Farro, Orange, & Tortilla Strips</p>
+						</header>
+						<div class="row gtr-150">
+							<div class="col-8 col-12-medium">
+
+								<!-- Content -->
+									<section id="content">
+										<a href="#" class="image fit"><img src="images/pic06.jpg" alt="" /></a>
+										<h3>From the Test Kitchen</h3>
+										<p>For a deliciously spicy kick, you’ll roast sweet potato and broccoli in chipotle chile paste before tossing them with warm grains and fresh citrus.
+										Toppings of creamy avocado and crispy tortilla strips complete this loaded salad with even more exciting flavor and texture.</p>
+										<h3>How To: Prevent Browning</h3>
+										<p>For some of our ingredients, we include directions to cover cut produce with lemon juice, lime juice or vinegar to prevent browning.
+										It's a way to keep your produce looking its absolute best.
+										Certain fruits and vegetables (pears, apples and avocados especially) oxidize quickly when cut open.
+										The natural acids (and vitamin C) in citrus juice and vinegar create a protective barrier between the produce and the air,
+										keeping their appearance fresh throughout the cooking process.</p>
+										<ul>
+											<li>2 Corn Tortillas.</li>
+                                                                                        <li>¾ cup Semi-Pearled Farro.</li>
+											<li>3 oz Radishes.</li>
+											<li>1 Avocado</li>
+											<li>1 Cara Cara Orange.</li>
+											<li>2 Tbsps Rice Vinegar.</li>
+											<li>1 lb Sweet Potatoes</li>
+											<li>½ lb Broccoli.</li>
+											<li>2 tsps Chipotle Chile Paste.</li>
+											<li>2 oz Queso Blanco.</li>
+											<li>1 Tbsp Honey.</li>
+		
+										</ul>
+									</section>
+
+							</div>
+							<div class="col-4 col-12-medium">
+
+								<!-- Sidebar -->
+									<section id="sidebar">
+										<section>
+											<h3>About Blue Apron</h3>
+											<a href="#" class="image fit"><img src="images/pic07.jpg" alt="" /></a>
+											<p>Blue Apron delivers original, step-by-step recipes and fresh ingredients to customers nationwide.
+											Our menus change every week, so with each delivery you learn to cook inventive new dishes with seasonal ingredients.
+											By letting us source these hard-to-find ingredients for you, you'll get food that is fresher and cheaper than you can get at your local supermarket,
+											and there's no waste because we only send you what you need for each recipe.</p>
+											<footer>
+												
+											</footer>
+										</section>
+										<hr />
+										
+									</section>
+
+							</div>
+						</div>
+					</div>
+				</div>
+
+			<!-- Footer -->
+				<footer id="footer">
+					<ul class="icons">
+						<li><a href="#" class="icon brands alt fa-twitter"><span class="label">Twitter</span></a></li>
+						<li><a href="#" class="icon brands alt fa-facebook-f"><span class="label">Facebook</span></a></li>
+						<li><a href="#" class="icon brands alt fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
+						<li><a href="#" class="icon brands alt fa-instagram"><span class="label">Instagram</span></a></li>
+						<li><a href="#" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
+						<li><a href="#" class="icon solid alt fa-envelope"><span class="label">Email</span></a></li>
+					</ul>
+					<ul class="copyright">
+						<li>&copy; Untitled. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+					</ul>
+				</footer>
+
+		</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/jquery.dropotron.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
